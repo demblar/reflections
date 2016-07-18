@@ -1,0 +1,17 @@
+it is good to have version control
+
+you could see your errors and development and then at the end to see your weakpoints.
+
+the benefits of manual commit is that you have the freedom to push commit when you think it is the best moment
+knowing the specifics of your code and changes. The negative site is that sometimes, drown into writing code, you
+just forget to do it, where automatical commit would be quite useful.
+
+Git probably allows multiple files tracking due to the fact it is mostly used in applications for developing software
+libraries, etc. Where google docs is mostly to track changes in projects consisting of one file.
+
+Using git log it will show the different commits with the tile of the commit. Then using the diff command you
+can compare the revissions and have a clear view of what was added and what deleted.
+
+Well, having a version control and being able to jump back and forth between different commits definitely gives you a peace of mind, knowing that anything can be reverted easily.
+
+I would like to use git for version control and commits
