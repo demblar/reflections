@@ -28,3 +28,31 @@ It is easier to imagine how they  relate to each other.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 the result is combining code.. we represent it in a diagram to make sure no commits are lost.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pros are that only a living person can decide how to solve conflicts in code. Cons is that sometimes it may be time consuming.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
