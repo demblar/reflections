@@ -25,3 +25,6 @@ Using branches make your your experimental or parallel work on the project much 
 How do the diagrams help you visualize the branch structure?
 
 It is easier to imagine how they  relate to each other.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+the result is combining code.. we represent it in a diagram to make sure no commits are lost.
