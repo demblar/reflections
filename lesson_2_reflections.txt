@@ -8,3 +8,20 @@ What value do you think it offers?
 The staging area is a place that holds file from the working directory that would be pushed to repository in the next commit.
 If you think multiple files are logically linked it will be wise to include them all in 1 commit thus placing them
 in the staging area until all files are ready to be commited.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You just add multiple files that have multiple files that you think are all about this one logical change you are working one,
+then add them to staging area and finally commit them when you are done with the logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+
+In case you want to test some functionality but leave your initial project files intact you could just create
+a new branch and work on it and keep your original master branch intact.
+
+Using branches make your your experimental or parallel work on the project much easier.
+
+How do the diagrams help you visualize the branch structure?
+
+It is easier to imagine how they  relate to each other.
